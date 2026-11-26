@@ -1,6 +1,6 @@
-[![make.fun](https://img.shields.io/badge/make.fun-news--image--20261126-blue)](https://make.fun/c/news-image-20261126)
-[![rank](https://img.shields.io/badge/rank-not%20yet%20ranked-lightgrey)](https://make.fun/c/news-image-20261126)
-[![reward](https://img.shields.io/badge/reward-%24100-inifikry-blue)](https://github.com/inifikry/news-image-20261126-makefun)
+[![make.fun · news-image-20261126](https://make.fun/badge/news-image-20261126.svg)](https://make.fun/bounty/news-image-20261126?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
+[![rank](https://make.fun/badge/news-image-20261126/inifikry/news-image-20261126-makefun/rank.svg)](https://make.fun/bounty/news-image-20261126/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
+[![reward](https://make.fun/badge/news-image-20261126/inifikry/news-image-20261126-makefun/reward.svg)](https://make.fun/bounty/news-image-20261126?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
 # News Image — 26 November 2026
 
 One image that sums up the world's news of **Thursday 26 November 2026**,
